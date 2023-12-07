@@ -4,8 +4,8 @@ Pertemuan : 14
 Nama : Dea Lestari
 NIM : 1217050032
 
-![WhatsApp Image 2023-12-06 at 22 10 34](https://github.com/1217050032/nodejs/assets/94585987/5178f843-643e-44f1-a474-d513c3c54483)
-<img width="960" alt="Screenshot 2023-12-07 125558" src="https://github.com/1217050032/nodejs/assets/94585987/44237cd1-322d-4746-91a3-1b0b521809b3">
+![WhatsApp Image 2023-12-06 at 22 10 34](https://github.com/1217050032/nodejs/assets/94585987/6f9f3291-cc72-4e03-887a-a56be2f114b9)
 
-![WhatsApp Image 2023-12-06 at 22 53 06](https://github.com/1217050032/nodejs/assets/94585987/fb631259-eb36-4a35-b94a-54b6239570e1)
-<img width="960" alt="Screenshot 2023-12-07 125548" src="https://github.com/1217050032/nodejs/assets/94585987/26c8afb5-451a-43a1-9962-c7570f5dab23">
+![Screenshot 2023-12-07 125558](https://github.com/1217050032/nodejs/assets/94585987/9df8c1bc-456c-462f-8cd6-4b3378a97cbb)
+![WhatsApp Image 2023-12-06 at 22 53 06 (1)](https://github.com/1217050032/nodejs/assets/94585987/65e4e861-4d71-4d71-9881-27821c2df993)
+![Uploading Screenshot 2023-12-07 125548.png…]()
